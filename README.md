@@ -8,7 +8,7 @@ include(FetchContent)
 
 FetchContent_Declare(
     Vector3
-    GIT_REPOSITORY https://github.com/Timshh/Vec3.git
+    GIT_REPOSITORY https://github.com/Timshh/vec3.git
     GIT_TAG main
 )
 
